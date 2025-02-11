@@ -50,7 +50,7 @@ Feel free to fork this repository and submit pull requests if you have:
 For questions or suggestions, feel free to reach out:
 
 - **Email:** zisan508ahmed@gmail.com
-- **GitHub:** [CodeAhmed-Bo](https://github.com/CodeAhmed-Bot)
+- **GitHub:** [CodeAhmed-Bot](https://github.com/CodeAhmed-Bot)
 
 ---
 
